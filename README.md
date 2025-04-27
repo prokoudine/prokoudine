@@ -1,13 +1,10 @@
 ## Hi there, I'm Alex 👋
 
-I'm a technical writer and content editor. Here's what I do:
-
-- Build and maintain documentation that helps people become proficient with their tools of trade.
-- Develop content strategies, maintain content plans, and write technical blog posts that explain complex ideas and engage readers.
+I help tech companies navigate the content chaos and build long-lasting relationships with their customers through compelling case studies, whitepapers, blog posts, documentation, and video tutorials.
 
 Here is some of my recent public work:
 
-- Content marketer and researcher at Ondsel
-- Blog editor at FreeCAD
-- Technical writer for Ardour and PiKVM
-- Contributing tech writer for Evidence
+- **Ondsel (SaaS for mechanical engineers)**: content strategy and plan, writing and editing blog posts
+- **FreeCAD (3D parametric CAD)**: writing and editing blog posts
+- **Ardour (digital audio workstation)**: revamping and maintaining the documentation, making bite-sized video tutorials
+- **Evidence (data analytics platform)**: writing blog posts
