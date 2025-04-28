@@ -4,7 +4,7 @@ I help tech companies navigate the content chaos and build long-lasting relation
 
 Here is some of my recent public work:
 
-- **Ondsel (SaaS for mechanical engineers)**: content strategy and plan, writing and editing blog posts
+- **Ondsel (SaaS for mechanical engineers)**: content strategy and plan, writing and editing blog posts, initial user guide
 - **FreeCAD (3D parametric CAD)**: writing and editing blog posts
 - **Ardour (digital audio workstation)**: revamping and maintaining the documentation, making bite-sized video tutorials
 - **Evidence (data analytics platform)**: writing blog posts
