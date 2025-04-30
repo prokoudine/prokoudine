@@ -7,5 +7,5 @@ Here is some of my recent public work:
 - **Ondsel (SaaS for mechanical engineers)**: content strategy and plan, writing and editing blog posts, initial user guide
 - **FreeCAD (3D parametric CAD)**: writing and editing blog posts
 - **Ardour (digital audio workstation)**: revamping and maintaining the documentation, making bite-sized video tutorials
-- **PiKVM**: rewriting the quickstart guides to make them beginner-friendlier
+- **PiKVM (Raspberry Pi based KVM devices)**: rewriting the quickstart guides to make them beginner-friendlier
 - **Evidence (data analytics platform)**: writing blog posts
